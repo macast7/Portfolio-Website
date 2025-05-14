@@ -1,0 +1,25 @@
+---
+title: "Customer Satisfaction Modeling"
+categories: ["Customer Insights", "Logistic Regression"]
+image: "https://placehold.co/600x400?text=Customer+Satisfaction"
+description: |
+  A logistic regression model to identify key satisfaction drivers from airline survey data. Includes interaction effects and visual summaries.
+---
+
+## Project Overview
+
+This project explores what drives customer satisfaction in the airline industry using a dataset of over 120,000 survey responses from United Airlines passengers. We built a logistic regression model—enhanced with 15 interaction terms—to predict satisfaction based on service ratings, travel purpose, loyalty status, and demographic features. Visualizations of marginal effects and satisfaction rates helped highlight the most influential variables.
+
+## Tools Used
+
+-   R (logistic regression, ggplot2)
+-   Excel
+-   Quarto
+
+## Key Visual
+
+![](/images/satisfaction-plot.jpeg)
+
+## Outcome
+
+The model identified **business travel**, **digital check-in**, **cleanliness**, **entertainment**, and **WiFi** as the strongest positive predictors of satisfaction. An important interaction revealed that **loyal business travelers** are significantly more likely to be satisfied, highlighting the value of tailored loyalty strategies. Conversely, **food quality**, **seat comfort**, and **legroom** had negative effects, indicating improvement opportunities. Recommendations include improving in-flight WiFi, streamlining digital processes, enhancing loyalty benefits for frequent business travelers, and investing in seat and food upgrades to improve satisfaction across all passenger segments.

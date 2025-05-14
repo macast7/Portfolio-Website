@@ -4,21 +4,25 @@ title: "Hi, I'm Marvin Castrejon"
 
 ::::: columns
 ::: {.column width="30%"}
-![](https://placehold.co/530x530?text=images/headshot.jpg){width="100%" style="border-radius: 50%;"}
+![](images/IMG_9438.jpg){style="border-radius: 50%;"}
 :::
 
 ::: {.column width="70%" style="padding-left: 3rem;"}
-I'm a \[your profession or area of focus\]. I specialize in transforming complex information into clear, engaging, and actionable insights.
+I'm a marketing analyst passionate about decoding customer behavior. I turn messy data into stories that help brands grow smarter.
 :::
 :::::
 
 ## About Me
 
-I hold a [\[Your Degree or Current Program\]]{.highlight} from \[Your Institution\].
+I hold a [Master of Science in Digital Marketing]{.highlight} from Cal Poly Pomona, where I focused on data-driven decision-making, customer behavior analysis, and digital strategy.
+
+As an aspiring **Market Insights Analyst**, I thrive at the intersection of marketing and analytics. My academic projects and hands-on experience have centered on extracting actionable insights from survey data, web analytics, and customer segmentation models. Whether I’m evaluating satisfaction drivers in the airline industry or running A/B tests to optimize digital campaigns, my goal is always the same: to turn complex data into clear, strategic recommendations.
+
+I bring strong proficiency in tools like **R**, **SQL**, and **Excel**, and I’m experienced in creating compelling dashboards, reports, and presentations using **Quarto**, **ggplot2**, and **Power BI**. I'm especially passionate about helping organizations better understand their customers and make evidence-based marketing decisions.
 
 ## Let's Connect
 
-You can [email me](mailto:you@example.com) or connect on [LinkedIn](https://www.linkedin.com/in/your-profile).
+You can [email me](mcastrejon@cpp.edu) or connect on [LinkedIn](https://www.linkedin.com/in/your-profile).
 
 ------------------------------------------------------------------------
 

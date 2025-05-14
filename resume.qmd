@@ -16,40 +16,51 @@ You can view a PDF version of my résumé [here](resume/Resume.pdf).
 
 # Professional Summary
 
-Results-oriented marketing and analytics professional with a strong foundation in data analysis, digital strategy, and performance reporting. Skilled in leveraging analytics tools and programming languages to uncover insights and support decision-making across cross-functional teams.
+Analytical and detail-oriented marketing professional with hands-on experience in data visualization, category performance analysis, and digital freelancing. Demonstrated ability to work independently and with teams to extract insights, develop solutions, and communicate results clearly. Eager to bring data-driven strategy to a market insights or analytics-focused role.
 
 # Technical Skills
 
-- **Programming Languages:** R, Python, SQL, etc.  
-- **Web Technologies:** HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Analytics Tools
+-   **Programming Languages:** R, Python, SQL
+
+-   **Tools & Packages:** ggplot2, dplyr, fpp3, fable, Quarto, Excel
+
+-   **Web Technologies:** HTML, CSS, Quarto (Website & Slide Publishing)
+
+-   **Analytics Areas:** Forecasting, Survey Analysis, Time Series, Data Cleaning, MANOVA, Topic Modeling
 
 # Education
 
-| Degree                             | Year                          | College / Department                 | Institution         |
-| ---------------------------------- | ----------------------------- | ------------------------------------ | ------------------- |
-| [Your Degree]                     | [Start – Graduation Year]     | [Your College or Department]        | [Your University]   |
-| [Previous Degree or Certification] | [Start – End Year]            | [Your College or Department]        | [Your University]   |
+| Degree | Year | College / Department | Institution |
+|------------------|------------------|-------------------|------------------|
+| M.S. Digital Marketing | 2023 – 2025 | College of Business | Cal Poly Pomona |
+| B.A. International Business and Marketing | 2021 - 2023 | College of Business | Cal Poly Pomona |
 
 # Work Experience
 
-### [Job Title], [Company or Organization]  
-*[Start Date – End Date]*
+### Data & Marketing Intern, Cal Poly Pomona Farm Store
 
-- [Responsibility or accomplishment #1]  
-- [Responsibility or accomplishment #2]  
-- [Responsibility or accomplishment #3]  
-- [Technical tools, collaboration, or outcomes]  
-- [Any metrics, impacts, or stakeholder involvement]
+*June 2024 – July 2024*
 
----
+-   Analyzed 12 months of sales data across multiple product categories to identify top-performing items
 
-### [Job Title], [Company or Organization]  
-*[Start Date – End Date]*
+-   Created visualizations (bar plots, boxplots, scatterplots) using R and ggplot2 to support business insights
 
-- [Responsibility or accomplishment #1]  
-- [Responsibility or accomplishment #2]  
-- [Team leadership, training, or development]  
-- [Projects involving marketing, data, or web technologies]  
-- [Toolset used or strategies implemented]
+-   Delivered recommendations to improve category-level strategy based on gross sales, profit margins, and customer preferences
 
----
+-   Tools: R, readxl, tidyverse, ggplot2, Excel
+
+------------------------------------------------------------------------
+
+### Freelance Marketing & Analytics Consultant, Upwork
+
+*Jan 2025 – Present*
+
+-   Completed various client projects involving survey analysis, Google Sheets dashboards, and campaign reporting
+
+-   Built interactive reports and provided actionable insights for e-commerce and service-based businesses
+
+-   Communicated with non-technical clients to clarify project goals and present results clearly
+
+-   Tools: R, Python, Google Sheets, Excel, Canva, Google Analytics
+
+------------------------------------------------------------------------

@@ -1,12 +1,12 @@
 ---
-name: First
-surname: Last
-position: "Your Role or Career Focus"
-phone: +1 (XXX) XXX-XXXX
-www: yourwebsite.com
-email: "you@example.com"
-github: your-github
-linkedin: your-linkedin
+name: Marvin
+surname: Castrejon
+position: "Marketing Analytics & Insights Professional"
+phone: +1 (831) 444-2170
+www:
+email: "mcastrejon@cpp.edu"
+github: macast7
+linkedin: linkedin.com/in/marvin-castrejon
 date: "`r format(Sys.time(), '%B %Y')`"
 output: 
   vitae::latexcv:
@@ -37,20 +37,21 @@ library(tibble)
 
 # Professional Summary
 
-Motivated and detail-oriented marketing and analytics professional with a strong background in data interpretation, campaign strategy, and digital tools. Skilled in turning insights into action and communicating value across business teams.
+Motivated and detail-oriented marketing and analytics professional with a strong background in data interpretation, forecasting, and survey research. Skilled in transforming complex data into clear insights that inform business and academic decisions. Experienced with tools such as R, Quarto, and ggplot2 in both professional and academic settings.
 
 # Technical Skills
 
-- **Programming Languages:** R, Python, SQL, etc.  
-- **Web Technologies:** HTML, CSS/SCSS, Quarto, CMS, Google Analytics, etc.
+-   **Programming Languages:** R, Python, SQL\
+-   **Web & Visualization Tools:** HTML, CSS, Quarto, ggplot2, Google Analytics
+-   **Analytics Areas:** Time Series Forecasting, Survey Analysis, Topic Modeling, MANOVA, Data Wrangling
 
 # Education
 
 ```{r}
 tribble(
   ~ Degree, ~ Year, ~ College, ~ Institution,
-  "Master of [Your Field]", "20XX – Expected Graduation 20XX", "[Your School or Department]", "[Your University]",
-  "Bachelor of [Your Field]", "20XX – 20XX", "[Your School or Department]", "[Your University]"
+  "M.S. Digital Marketing", "2023 – 2025", "College of Business", "Cal Poly Pomona",
+  "B.A. International Business and Marketing", "2021 – 2023", "College of Business", "Cal Poly Pomona"
 ) %>%
   detailed_entries(Degree, Year, College, Institution)
 ```
@@ -60,25 +61,25 @@ tribble(
 ```{r}
 tribble(
   ~ Years, ~ Company, ~ Duties, ~ Title,
-
-  "Month YYYY – Month YYYY", "Company or Organization Name",
+  
+  "June 2024 – July 2024", "Cal Poly Pomona Farm Store",
   list(
-    "Summarize responsibility or achievement \\#1.",
-    "Highlight tools, technologies, or methods used.",
-    "Mention metrics, goals, or impact if possible.",
-    "Add communication or leadership responsibilities here."
+    "Analyzed 12 months of sales data across multiple product categories to identify top-performing items.",
+    "Created visualizations (bar plots, boxplots, scatterplots) using R and ggplot2 to support business insights.",
+    "Delivered recommendations to improve category-level strategy based on gross sales, profit margins, and customer preferences.",
+    "Tools: R, readxl, tidyverse, ggplot2, Excel."
   ),
-  "Job Title",
-
-  "Month YYYY – Month YYYY", "Another Company or Team",
+  "Data & Marketing Intern",
+  
+  "Jan 2025 – Present", "Freelance / Upwork",
   list(
-    "Led a project or team focused on [insert focus].",
-    "Collaborated cross-functionally with [departments/roles].",
-    "Managed content, campaigns, or dashboards.",
-    "Contributed to strategic planning or reporting."
+    "Completed various client projects involving survey analysis, Google Sheets dashboards, and campaign reporting.",
+    "Built interactive reports and provided actionable insights for e-commerce and service-based businesses.",
+    "Communicated with non-technical clients to clarify project goals and present results clearly.",
+    "Tools: R, Python, Google Sheets, Excel, Canva, Google Analytics."
   ),
-  "Job Title"
-
+  "Freelance Marketing & Analytics Consultant"
+  
 ) %>%
   detailed_entries(
     what = Title,

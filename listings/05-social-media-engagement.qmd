@@ -1,28 +1,59 @@
 ---
-title: "Social Media Engagement Analysis"
-image: "https://placehold.co/600x400?text=Social+Media+Analysis"
-categories: [Social Media, Engagement Metrics, Content Strategy, Audience Analysis, Analytics]
+title: "Social Media & Sense of Community at CPP"
+image: "https://placehold.co/600x400?text=Student+Insights"
+categories: ["Survey Research", "Multivariate Analysis", "Student Insights"]
 index: 5
 ---
 
-#### **Overview**  
-This analysis examined engagement metrics across multiple social media platforms to identify content trends, audience preferences, and posting strategies that drive performance.
+## Overview
 
-::: {.columns}
-::: {.column width="50%"}
-#### **Learning Outcomes**  
-- Aggregate and clean social media data.  
-- Identify high-performing content formats.  
-- Understand audience behavior and peak times.  
-- Support social strategy with data-backed recommendations.  
-- Visualize results in an executive summary.
-:::
-::: {.column width="50%"}
-#### **Key Skills Gained**  
-- Social analytics  
-- Platform metric APIs  
-- Content performance tracking  
-- Audience insights  
-- Strategic planning
-:::
-:::
+This project explores how students at Cal Poly Pomona use social media platforms to build a sense of community, network, and seek academic support. Based on survey responses, the study investigates the **relationship between platform use (Instagram, TikTok, Discord, Facebook)** and four outcomes:
+
+-   Sense of Community
+-   Networking Opportunities
+-   Academic Support
+-   Overall College Experience
+
+------------------------------------------------------------------------
+
+## Methods
+
+-   **Survey Data**: Cleaned and recoded Likert and categorical responses
+-   **Imputation**: Replaced missing values with mean (numerics) and mode (categoricals)
+-   **Re-encoding**: Mapped social media platforms to numeric categories
+-   **Analysis**:
+    -   Conducted **MANOVA** with platform usage as predictors
+    -   Examined **individual ANOVAs** for each dependent variable
+-   **Visualization**:
+    -   Boxplots comparing platform usage with outcome scores
+    -   Bar chart of average impact scores per platform
+
+------------------------------------------------------------------------
+
+## Key Findings
+
+### MANOVA Results
+
+The analysis showed significant effects of platform usage on multiple dimensions of community-building: - **Discord** had the strongest association with **academic support** - **Instagram** was positively linked to **sense of community** - **TikTok** and **Facebook** showed weaker or inconsistent patterns
+
+📋 *P-values* were computed for each dependent variable, summarized in a table for all predictors.
+
+### Visual Insights
+
+-   **Boxplots** revealed higher median sense-of-community scores for active Instagram users
+-   **Bar chart** showed Discord as the top platform for academic-related support
+
+> Example Insight: "Students who use Discord report higher academic support ratings, while Instagram users report stronger social connection."
+
+------------------------------------------------------------------------
+
+## Tools Used
+
+-   R (`dplyr`, `ggplot2`, `car`, `tidyr`)
+-   Quarto (reporting and visualization)
+
+------------------------------------------------------------------------
+
+## Visual
+
+![Boxplot of Sense of Community vs Instagram Usage](../images/community-boxplot.png)

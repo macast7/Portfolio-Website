@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Customer Segmentation Using Clustering – Marvin Castrejon</title>
+<title>Farm Store Category Analysis – Marvin Castrejon</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -92,12 +92,8 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../marketing-analytics.html"> 
-<span class="menu-text">Marketing Analytics</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../strategic-marketing.html"> 
-<span class="menu-text">Strategic Marketing</span></a>
+    <a class="nav-link" href="../projects.html"> 
+<span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../resume.html"> 
@@ -114,21 +110,29 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#key-questions-explored" id="toc-key-questions-explored" class="nav-link" data-scroll-target="#key-questions-explored">Key Questions Explored</a></li>
+  <li><a href="#methods" id="toc-methods" class="nav-link" data-scroll-target="#methods">Methods</a></li>
+  <li><a href="#results" id="toc-results" class="nav-link" data-scroll-target="#results">Results</a></li>
+  <li><a href="#tools-used" id="toc-tools-used" class="nav-link" data-scroll-target="#tools-used">Tools Used</a></li>
+  <li><a href="#visual" id="toc-visual" class="nav-link" data-scroll-target="#visual">Visual</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Customer Segmentation Using Clustering</h1>
+<h1 class="title">Farm Store Category Analysis</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">Customer Insights</div>
-    <div class="quarto-category">Segmentation</div>
-    <div class="quarto-category">Machine Learning</div>
-    <div class="quarto-category">Clustering</div>
-    <div class="quarto-category">Marketing Strategy</div>
+    <div class="quarto-category">Retail Analytics</div>
+    <div class="quarto-category">Marketing Analytics</div>
   </div>
   </div>
 
@@ -146,45 +150,62 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="overview" class="level4">
-<h4 class="anchored" data-anchor-id="overview"><strong>Overview</strong></h4>
-<p>In this analysis, customer data was segmented using clustering algorithms to identify meaningful groups. These segments informed targeting strategies and personalization efforts.</p>
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>As part of a micro-internship project for the <strong>Cal Poly Pomona Farm Store</strong>, I performed a comprehensive analysis of monthly sales data to support inventory and category performance optimization.</p>
+<p>The goal was to identify which product categories and individual items drove the most revenue and units sold, and to visualize key performance metrics including gross sales, net sales, discounts, and profit margins.</p>
+<hr>
 </section>
-<div class="columns">
-<div class="column" style="width:50%;">
-<section id="learning-outcomes" class="level4">
-<h4 class="anchored" data-anchor-id="learning-outcomes"><strong>Learning Outcomes</strong></h4>
+<section id="key-questions-explored" class="level2">
+<h2 class="anchored" data-anchor-id="key-questions-explored">Key Questions Explored</h2>
 <ul>
-<li>Clean and prepare customer-level data.<br>
-</li>
-<li>Apply clustering techniques to group similar customers.<br>
-</li>
-<li>Interpret clusters to define marketing personas.<br>
-</li>
-<li>Recommend tailored messaging strategies.<br>
-</li>
-<li>Support targeted campaign development.</li>
+<li>Which product categories generated the highest gross and net sales?</li>
+<li>Which individual items were most popular within each category?</li>
+<li>What trends were observed in COGS, profit, and discounting?</li>
+<li>How can insights support better inventory and pricing decisions?</li>
 </ul>
+<hr>
 </section>
-</div><div class="column" style="width:50%;">
-<section id="key-skills-gained" class="level4">
-<h4 class="anchored" data-anchor-id="key-skills-gained"><strong>Key Skills Gained</strong></h4>
+<section id="methods" class="level2">
+<h2 class="anchored" data-anchor-id="methods">Methods</h2>
 <ul>
-<li>K-means clustering<br>
-</li>
-<li>Data preprocessing<br>
-</li>
-<li>Customer profiling<br>
-</li>
-<li>Market segmentation strategy<br>
-</li>
-<li>R or Python for machine learning</li>
+<li>Combined monthly Excel sheets into a single dataset using <code>readxl</code> and <code>purrr</code></li>
+<li>Created bar charts, boxplots, scatter plots, and histograms with <code>ggplot2</code></li>
+<li>Ranked top-selling products per category and created faceted visualizations</li>
+<li>Used <code>dplyr</code> to summarize and group sales by product and category</li>
 </ul>
+<hr>
 </section>
-</div>
+<section id="results" class="level2">
+<h2 class="anchored" data-anchor-id="results">Results</h2>
+<ul>
+<li><strong>Grocery Snacks</strong> and <strong>Grocery Beverages</strong> were top-performing categories in terms of sales volume.</li>
+<li>The most popular items varied significantly by category, with a few standout products accounting for a large share of units sold.</li>
+<li>Clear patterns emerged in <strong>average item size</strong>, <strong>repayments</strong>, and <strong>gross profit</strong>, allowing for targeted business decisions.</li>
+</ul>
+<p>📊 Visuals included: - Gross vs.&nbsp;Net Sales comparisons - Top 25 items by units sold (with category-specific charts) - Boxplots of profit and sales by category</p>
+<hr>
+</section>
+<section id="tools-used" class="level2">
+<h2 class="anchored" data-anchor-id="tools-used">Tools Used</h2>
+<ul>
+<li>R (<code>tidyverse</code>, <code>ggplot2</code>, <code>readxl</code>)</li>
+<li>Excel (initial data collection)</li>
+<li>Quarto for project reporting</li>
+</ul>
+<hr>
+</section>
+<section id="visual" class="level2">
+<h2 class="anchored" data-anchor-id="visual">Visual</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../images/Top 25.png" class="img-fluid figure-img"></p>
+<figcaption>Farm Store Top 25 Items</figcaption>
+</figure>
 </div>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

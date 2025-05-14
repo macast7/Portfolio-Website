@@ -1,0 +1,22 @@
+---
+title: "Projects"
+listing: 
+  contents: listings
+  type: grid
+  categories: true
+  sort: 
+    - "index desc"
+---
+
+Below are selected projects that reflect my skills in marketing analytics, research design, and strategic insight development. These projects span time series forecasting, retail sales analysis, multivariate survey research, and AI policy exploration — each grounded in data-driven methods and real-world applications.
+
+Whether identifying satisfaction drivers, modeling sales trends, or analyzing student behavior, I aim to transform complex data into clear, actionable insights that support business and educational decisions.
+
+## Key Focus Areas
+
+- **Retail & Sales Analytics:** Forecasting demand, analyzing profitability, and understanding product/category trends.
+- **Survey & Community Research:** Using statistical modeling (e.g., MANOVA, topic modeling) to interpret user behavior and policy feedback.
+- **Data Visualization:** Communicating insights clearly through plots, dashboards, and summary tables.
+- **Forecasting & Time Series Modeling:** Applying models like SNAIVE and ARIMA to predict future outcomes.
+
+------------------------------------------------------------------------

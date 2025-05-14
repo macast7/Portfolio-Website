@@ -1,0 +1,62 @@
+---
+title: "Walmart Sales Forecasting"
+image: "https://placehold.co/600x400?text=Sales+Forecasting"
+categories: ["Time Series Forecasting", "Retail Analytics"]
+index: 4
+---
+
+## Overview
+
+This project focused on forecasting weekly sales for **Store 1, Department 72** at Walmart using time series models. The goal was to predict future sales using both historical patterns and external economic indicators such as temperature, fuel price, and holidays.
+
+The analysis included baseline forecasting using SNAIVE and advanced modeling with ARIMA plus regressors.
+
+------------------------------------------------------------------------
+
+## Key Objectives
+
+-   Visualize weekly sales trends and related economic indicators
+-   Measure correlations between sales and factors like CPI, fuel prices, and unemployment
+-   Build and evaluate SNAIVE and ARIMA models
+-   Assess forecast accuracy using average error and RMSE
+
+------------------------------------------------------------------------
+
+## Methods
+
+-   **Time Series Structure**: Data converted into tsibble with weekly granularity
+-   **Exploratory Plots**:
+    -   Sales over time (full and 1-year snapshot)
+    -   External drivers: Temperature, Fuel Price, CPI, and Unemployment
+-   **Correlation Analysis**:
+    -   Pearson & Spearman matrices visualized with `corrplot`
+-   **Models Built**:
+    -   `SNAIVE`: Seasonal naive model as a benchmark
+    -   `ARIMA`: With regressors (IsHoliday, Temperature, Fuel_Price)
+-   **Forecast Accuracy**:
+    -   Compared actual vs forecast for 52 weeks
+    -   Error metrics: Average Error, RMSE
+
+------------------------------------------------------------------------
+
+## Results
+
+-   **SNAIVE RMSE**: \~2192\
+-   **ARIMA RMSE**: \~1985
+
+ARIMA with regressors outperformed the seasonal naive model, capturing effects from holidays and temperature changes. Visualization of actual vs. forecasted values showed close alignment for both models, with ARIMA providing a more stable fit.
+
+📈 *Forecast Chart (right)*: Depicts actual vs. predicted sales using both models.
+
+------------------------------------------------------------------------
+
+## Tools Used
+
+-   R (`fpp3`, `fable`, `tsibble`, `ggplot2`, `corrplot`)
+-   Quarto (for reporting and visualization)
+
+------------------------------------------------------------------------
+
+## Visual
+
+![Walmart Forecast Plot](../images/walmart-forecast.png)

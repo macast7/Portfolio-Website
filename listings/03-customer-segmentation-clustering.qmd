@@ -1,28 +1,54 @@
 ---
-title: "Customer Segmentation Using Clustering"
-image: "https://placehold.co/600x400?text=Customer+Segmentation"
-categories: [Customer Insights, Segmentation, Machine Learning, Clustering, Marketing Strategy]
+title: "Farm Store Category Analysis"
+image: "https://placehold.co/600x400?text=Farm+Store"
+categories: ["Retail Analytics", "Marketing Analytics"]
 index: 3
 ---
 
-#### **Overview**  
-In this analysis, customer data was segmented using clustering algorithms to identify meaningful groups. These segments informed targeting strategies and personalization efforts.
+## Overview
 
-::: {.columns}
-::: {.column width="50%"}
-#### **Learning Outcomes**  
-- Clean and prepare customer-level data.  
-- Apply clustering techniques to group similar customers.  
-- Interpret clusters to define marketing personas.  
-- Recommend tailored messaging strategies.  
-- Support targeted campaign development.
-:::
-::: {.column width="50%"}
-#### **Key Skills Gained**  
-- K-means clustering  
-- Data preprocessing  
-- Customer profiling  
-- Market segmentation strategy  
-- R or Python for machine learning
-:::
-:::
+As part of a micro-internship project for the **Cal Poly Pomona Farm Store**, I performed a comprehensive analysis of monthly sales data to support inventory and category performance optimization.
+
+The goal was to identify which product categories and individual items drove the most revenue and units sold, and to visualize key performance metrics including gross sales, net sales, discounts, and profit margins.
+
+------------------------------------------------------------------------
+
+## Key Questions Explored
+
+-   Which product categories generated the highest gross and net sales?
+-   Which individual items were most popular within each category?
+-   What trends were observed in COGS, profit, and discounting?
+-   How can insights support better inventory and pricing decisions?
+
+------------------------------------------------------------------------
+
+## Methods
+
+-   Combined monthly Excel sheets into a single dataset using `readxl` and `purrr`
+-   Created bar charts, boxplots, scatter plots, and histograms with `ggplot2`
+-   Ranked top-selling products per category and created faceted visualizations
+-   Used `dplyr` to summarize and group sales by product and category
+
+------------------------------------------------------------------------
+
+## Results
+
+-   **Grocery Snacks** and **Grocery Beverages** were top-performing categories in terms of sales volume.
+-   The most popular items varied significantly by category, with a few standout products accounting for a large share of units sold.
+-   Clear patterns emerged in **average item size**, **repayments**, and **gross profit**, allowing for targeted business decisions.
+
+📊 Visuals included: - Gross vs. Net Sales comparisons - Top 25 items by units sold (with category-specific charts) - Boxplots of profit and sales by category
+
+------------------------------------------------------------------------
+
+## Tools Used
+
+-   R (`tidyverse`, `ggplot2`, `readxl`)
+-   Excel (initial data collection)
+-   Quarto for project reporting
+
+------------------------------------------------------------------------
+
+## Visual
+
+![Farm Store Top 25 Items](../images/Top 25.png)

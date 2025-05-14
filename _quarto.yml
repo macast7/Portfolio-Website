@@ -8,10 +8,8 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Marketing Analytics"
-        href: marketing-analytics.qmd
-      - text: "Strategic Marketing"
-        href: strategic-marketing.qmd
+      - text: "Projects"
+        href: projects.qmd
       - text: "Résumé"
         href: resume.qmd
 

@@ -1,115 +1,17 @@
 [
   {
-    "objectID": "marketing-analytics.html",
-    "href": "marketing-analytics.html",
-    "title": "Marketing Analytics",
-    "section": "",
-    "text": "Below are selected projects that highlight my experience applying marketing analytics to real-world challenges. These projects reflect my ability to combine statistical tools, campaign data, and strategic thinking to inform decisions and drive results.\nWhether developing dashboards, analyzing campaign performance, or uncovering insights through SEO and web analytics, each project is rooted in turning complex marketing data into clear, actionable strategies."
-  },
-  {
-    "objectID": "marketing-analytics.html#what-youll-find",
-    "href": "marketing-analytics.html#what-youll-find",
-    "title": "Marketing Analytics",
-    "section": "What You’ll Find",
-    "text": "What You’ll Find\n\nCampaign Performance Analysis: Evaluating the effectiveness of digital marketing efforts using data.\nData Visualization: Turning raw datasets into intuitive dashboards and reports.\nMarketing Mix & Attribution: Exploring how different channels contribute to success.\nCustomer & Market Insights: Using analytics to better understand user behavior and optimize experiences."
-  },
-  {
-    "objectID": "strategic-marketing.html",
-    "href": "strategic-marketing.html",
-    "title": "Strategic Marketing",
-    "section": "",
-    "text": "Below are selected projects that showcase my work in strategic marketing, campaign development, and brand management. These examples highlight how I apply leadership, data-informed decision making, and creative direction to drive marketing success."
-  },
-  {
-    "objectID": "strategic-marketing.html#project-title-1-strategic-campaign-planning",
-    "href": "strategic-marketing.html#project-title-1-strategic-campaign-planning",
-    "title": "Strategic Marketing",
-    "section": "[Project Title 1: Strategic Campaign Planning]",
-    "text": "[Project Title 1: Strategic Campaign Planning]\nIn this project, I led the development of a comprehensive marketing campaign for [product, service, or initiative]. From audience segmentation to messaging strategy, I managed the full lifecycle of the campaign, aligning it with business objectives and measurable KPIs.\nSkills Demonstrated:\n\nMarketing Strategy: Defined objectives and tactics for maximum impact.\nTeam Coordination: Oversaw collaboration across creative, data, and channel teams.\nPerformance Tracking: Implemented real-time metrics and post-campaign analysis.\nBrand Positioning: Ensured consistency across all touchpoints."
-  },
-  {
-    "objectID": "strategic-marketing.html#project-title-2-brand-audit-positioning",
-    "href": "strategic-marketing.html#project-title-2-brand-audit-positioning",
-    "title": "Strategic Marketing",
-    "section": "[Project Title 2: Brand Audit & Positioning]",
-    "text": "[Project Title 2: Brand Audit & Positioning]\nThis initiative involved conducting a full brand audit for [organization or brand], evaluating its current market perception, competitive landscape, and customer engagement. I synthesized insights into a refreshed brand strategy and visual identity recommendations.\nSkills Demonstrated:\n\nBrand Analysis: Audited messaging, tone, and visual identity.\nCompetitive Benchmarking: Evaluated brand positioning within the market.\nStrategic Communication: Developed new value propositions and storytelling elements.\nStakeholder Presentation: Delivered recommendations to senior leadership."
-  },
-  {
-    "objectID": "strategic-marketing.html#project-title-3-product-launch-go-to-market-plan",
-    "href": "strategic-marketing.html#project-title-3-product-launch-go-to-market-plan",
-    "title": "Strategic Marketing",
-    "section": "[Project Title 3: Product Launch Go-to-Market Plan]",
-    "text": "[Project Title 3: Product Launch Go-to-Market Plan]\nFor the release of [new product/service], I created a go-to-market (GTM) strategy from scratch. This included customer journey mapping, channel mix planning, and launch timeline coordination.\nSkills Demonstrated:\n\nGo-to-Market Strategy: Developed a clear launch roadmap aligned with buyer needs.\nIntegrated Marketing: Orchestrated email, paid ads, social, and on-site promotions.\nBudget Management: Allocated resources efficiently across tactics.\nLaunch Optimization: Tracked performance and refined tactics in real time.\n\nBelow is an embedded demonstration of the interactive report:"
-  },
-  {
-    "objectID": "strategic-marketing.html#project-title-4-client-consulting-campaign-optimization",
-    "href": "strategic-marketing.html#project-title-4-client-consulting-campaign-optimization",
-    "title": "Strategic Marketing",
-    "section": "[Project Title 4: Client Consulting & Campaign Optimization]",
-    "text": "[Project Title 4: Client Consulting & Campaign Optimization]\nI collaborated with a client to assess and optimize their existing marketing efforts. Through audits, persona development, and campaign refinement, I helped improve ROI and audience engagement.\nSkills Demonstrated:\n\nClient Consulting: Provided clear insights and strategic guidance.\nPersona Development: Built target personas to guide messaging.\nCampaign Optimization: Identified and addressed areas of underperformance.\nData-Driven Adjustments: Leveraged analytics to refine tactics."
-  },
-  {
-    "objectID": "listings/01-campaign-insights-dashboard.html",
-    "href": "listings/01-campaign-insights-dashboard.html",
-    "title": "Campaign Insights Dashboard",
-    "section": "",
-    "text": "Overview\nThis project involved building a dashboard to track and visualize marketing campaign performance. Metrics like click-through rate, conversion rate, and ROI were tracked across channels using R and Tableau.\n\n\n\n\nLearning Outcomes\n\nVisualize and monitor key marketing metrics.\n\nAnalyze performance trends across multiple campaigns.\n\nIdentify high- and low-performing segments.\n\nCommunicate insights through interactive visuals.\n\nDevelop data-informed recommendations.\n\n\n\n\nKey Skills Gained\n\nDashboard development\n\nCampaign analytics\n\nData wrangling in R\n\nTableau or R Shiny visualization\n\nPerformance measurement"
-  },
-  {
-    "objectID": "listings/04-funnel-attribution-model.html",
-    "href": "listings/04-funnel-attribution-model.html",
-    "title": "Marketing Funnel Attribution Model",
-    "section": "",
-    "text": "Overview\nThis project developed a marketing attribution model to assign credit to touchpoints throughout the conversion journey. The insights supported channel optimization and budget reallocation.\n\n\n\n\nLearning Outcomes\n\nTrack multi-touch customer journeys.\n\nModel attribution using first-touch, last-touch, and linear approaches.\n\nVisualize funnel performance.\n\nQuantify channel impact on conversion.\n\nGuide future campaign investment decisions.\n\n\n\n\nKey Skills Gained\n\nAttribution modeling\n\nFunnel analysis\n\nData visualization\n\nCampaign performance analysis\n\nR or Python analytics pipelines"
-  },
-  {
-    "objectID": "listings/02-seo-benchmarking-analysis.html",
-    "href": "listings/02-seo-benchmarking-analysis.html",
-    "title": "SEO Benchmarking Analysis",
-    "section": "",
-    "text": "Overview\nThis project compared SEO performance across competitors, highlighting keyword gaps, backlink profiles, and content effectiveness. Insights were used to guide an improved content and SEO strategy.\n\n\n\n\nLearning Outcomes\n\nIdentify keyword opportunities through competitive research.\n\nTrack and compare domain authority and page rankings.\n\nRecommend on-page SEO improvements.\n\nDesign a data-driven SEO content strategy.\n\nVisualize competitor positioning.\n\n\n\n\nKey Skills Gained\n\nKeyword research\n\nWeb scraping & data cleaning\n\nSEO analysis tools\n\nData storytelling\n\nStrategy development"
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Résumé",
-    "section": "",
-    "text": "You can view a PDF version of my résumé here.\n\nProfessional Summary\nResults-oriented marketing and analytics professional with a strong foundation in data analysis, digital strategy, and performance reporting. Skilled in leveraging analytics tools and programming languages to uncover insights and support decision-making across cross-functional teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Analytics Tools\n\n\n\nEducation\n\n\n\n\n\n\n\n\n\nDegree\nYear\nCollege / Department\nInstitution\n\n\n\n\n[Your Degree]\n[Start – Graduation Year]\n[Your College or Department]\n[Your University]\n\n\n[Previous Degree or Certification]\n[Start – End Year]\n[Your College or Department]\n[Your University]\n\n\n\n\n\nWork Experience\n\n[Job Title], [Company or Organization]\n[Start Date – End Date]\n\n[Responsibility or accomplishment #1]\n\n[Responsibility or accomplishment #2]\n\n[Responsibility or accomplishment #3]\n\n[Technical tools, collaboration, or outcomes]\n\n[Any metrics, impacts, or stakeholder involvement]\n\n\n\n\n[Job Title], [Company or Organization]\n[Start Date – End Date]\n\n[Responsibility or accomplishment #1]\n\n[Responsibility or accomplishment #2]\n\n[Team leadership, training, or development]\n\n[Projects involving marketing, data, or web technologies]\n\n[Toolset used or strategies implemented]"
-  },
-  {
-    "objectID": "listings/03-customer-segmentation-clustering.html",
-    "href": "listings/03-customer-segmentation-clustering.html",
-    "title": "Customer Segmentation Using Clustering",
-    "section": "",
-    "text": "Overview\nIn this analysis, customer data was segmented using clustering algorithms to identify meaningful groups. These segments informed targeting strategies and personalization efforts.\n\n\n\n\nLearning Outcomes\n\nClean and prepare customer-level data.\n\nApply clustering techniques to group similar customers.\n\nInterpret clusters to define marketing personas.\n\nRecommend tailored messaging strategies.\n\nSupport targeted campaign development.\n\n\n\n\nKey Skills Gained\n\nK-means clustering\n\nData preprocessing\n\nCustomer profiling\n\nMarket segmentation strategy\n\nR or Python for machine learning"
-  },
-  {
-    "objectID": "listings/05-social-media-engagement.html",
-    "href": "listings/05-social-media-engagement.html",
-    "title": "Social Media Engagement Analysis",
-    "section": "",
-    "text": "Overview\nThis analysis examined engagement metrics across multiple social media platforms to identify content trends, audience preferences, and posting strategies that drive performance.\n\n\n\n\nLearning Outcomes\n\nAggregate and clean social media data.\n\nIdentify high-performing content formats.\n\nUnderstand audience behavior and peak times.\n\nSupport social strategy with data-backed recommendations.\n\nVisualize results in an executive summary.\n\n\n\n\nKey Skills Gained\n\nSocial analytics\n\nPlatform metric APIs\n\nContent performance tracking\n\nAudience insights\n\nStrategic planning"
-  },
-  {
-    "objectID": "resume/Resume.html",
-    "href": "resume/Resume.html",
-    "title": "Professional Summary",
-    "section": "",
-    "text": "Professional Summary\nMotivated and detail-oriented marketing and analytics professional with a strong background in data interpretation, campaign strategy, and digital tools. Skilled in turning insights into action and communicating value across business teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, Quarto, CMS, Google Analytics, etc.\n\n\n\nEducation\n\n\n# A tibble: 2 × 5\n  what                     when                            with      where why  \n  &lt;chr&gt;                    &lt;chr&gt;                           &lt;chr&gt;     &lt;chr&gt; &lt;lis&gt;\n1 Master of [Your Field]   20XX – Expected Graduation 20XX [Your Sc… [You… &lt;chr&gt;\n2 Bachelor of [Your Field] 20XX – 20XX                     [Your Sc… [You… &lt;chr&gt;\n\n\n\n\nWork Experience\n\n\n# A tibble: 2 × 5\n  what      when                    with                         where why   \n  &lt;chr&gt;     &lt;chr&gt;                   &lt;chr&gt;                        &lt;chr&gt; &lt;list&gt;\n1 Job Title Month YYYY – Month YYYY Company or Organization Name &lt;NA&gt;  &lt;list&gt;\n2 Job Title Month YYYY – Month YYYY Another Company or Team      &lt;NA&gt;  &lt;list&gt;"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Hi, I’m Marvin Castrejon",
     "section": "",
-    "text": "I’m a [your profession or area of focus]. I specialize in transforming complex information into clear, engaging, and actionable insights."
+    "text": "I’m a marketing analyst passionate about decoding customer behavior. I turn messy data into stories that help brands grow smarter."
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Hi, I’m Marvin Castrejon",
     "section": "About Me",
-    "text": "About Me\nI hold a [Your Degree or Current Program] from [Your Institution]."
+    "text": "About Me\nI hold a Master of Science in Digital Marketing from Cal Poly Pomona, where I focused on data-driven decision-making, customer behavior analysis, and digital strategy.\nAs an aspiring Market Insights Analyst, I thrive at the intersection of marketing and analytics. My academic projects and hands-on experience have centered on extracting actionable insights from survey data, web analytics, and customer segmentation models. Whether I’m evaluating satisfaction drivers in the airline industry or running A/B tests to optimize digital campaigns, my goal is always the same: to turn complex data into clear, strategic recommendations.\nI bring strong proficiency in tools like R, SQL, and Excel, and I’m experienced in creating compelling dashboards, reports, and presentations using Quarto, ggplot2, and Power BI. I’m especially passionate about helping organizations better understand their customers and make evidence-based marketing decisions."
   },
   {
     "objectID": "index.html#lets-connect",
@@ -117,5 +19,257 @@
     "title": "Hi, I’m Marvin Castrejon",
     "section": "Let’s Connect",
     "text": "Let’s Connect\nYou can email me or connect on LinkedIn.\n\nWelcome to my portfolio."
+  },
+  {
+    "objectID": "resume/Resume.html",
+    "href": "resume/Resume.html",
+    "title": "Professional Summary",
+    "section": "",
+    "text": "Professional Summary\nMotivated and detail-oriented marketing and analytics professional with a strong background in data interpretation, forecasting, and survey research. Skilled in transforming complex data into clear insights that inform business and academic decisions. Experienced with tools such as R, Quarto, and ggplot2 in both professional and academic settings.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL\n\nWeb & Visualization Tools: HTML, CSS, Quarto, ggplot2, Google Analytics\nAnalytics Areas: Time Series Forecasting, Survey Analysis, Topic Modeling, MANOVA, Data Wrangling\n\n\n\nEducation\n\n\n# A tibble: 2 × 5\n  what                                      when        with         where why  \n  &lt;chr&gt;                                     &lt;chr&gt;       &lt;chr&gt;        &lt;chr&gt; &lt;lis&gt;\n1 M.S. Digital Marketing                    2023 – 2025 College of … Cal … &lt;chr&gt;\n2 B.A. International Business and Marketing 2021 – 2023 College of … Cal … &lt;chr&gt;\n\n\n\n\nWork Experience\n\n\n# A tibble: 2 × 5\n  what                                       when             with  where why   \n  &lt;chr&gt;                                      &lt;chr&gt;            &lt;chr&gt; &lt;chr&gt; &lt;list&gt;\n1 Data & Marketing Intern                    June 2024 – Jul… Cal … &lt;NA&gt;  &lt;list&gt;\n2 Freelance Marketing & Analytics Consultant Jan 2025 – Pres… Free… &lt;NA&gt;  &lt;list&gt;"
+  },
+  {
+    "objectID": "listings/01-customer-satisfaction-modeling.html",
+    "href": "listings/01-customer-satisfaction-modeling.html",
+    "title": "Customer Satisfaction Modeling",
+    "section": "",
+    "text": "This project explores what drives customer satisfaction in the airline industry using a dataset of over 120,000 survey responses from United Airlines passengers. We built a logistic regression model—enhanced with 15 interaction terms—to predict satisfaction based on service ratings, travel purpose, loyalty status, and demographic features. Visualizations of marginal effects and satisfaction rates helped highlight the most influential variables."
+  },
+  {
+    "objectID": "listings/01-customer-satisfaction-modeling.html#project-overview",
+    "href": "listings/01-customer-satisfaction-modeling.html#project-overview",
+    "title": "Customer Satisfaction Modeling",
+    "section": "",
+    "text": "This project explores what drives customer satisfaction in the airline industry using a dataset of over 120,000 survey responses from United Airlines passengers. We built a logistic regression model—enhanced with 15 interaction terms—to predict satisfaction based on service ratings, travel purpose, loyalty status, and demographic features. Visualizations of marginal effects and satisfaction rates helped highlight the most influential variables."
+  },
+  {
+    "objectID": "listings/01-customer-satisfaction-modeling.html#tools-used",
+    "href": "listings/01-customer-satisfaction-modeling.html#tools-used",
+    "title": "Customer Satisfaction Modeling",
+    "section": "Tools Used",
+    "text": "Tools Used\n\nR (logistic regression, ggplot2)\nExcel\nQuarto"
+  },
+  {
+    "objectID": "listings/01-customer-satisfaction-modeling.html#key-visual",
+    "href": "listings/01-customer-satisfaction-modeling.html#key-visual",
+    "title": "Customer Satisfaction Modeling",
+    "section": "Key Visual",
+    "text": "Key Visual"
+  },
+  {
+    "objectID": "listings/01-customer-satisfaction-modeling.html#outcome",
+    "href": "listings/01-customer-satisfaction-modeling.html#outcome",
+    "title": "Customer Satisfaction Modeling",
+    "section": "Outcome",
+    "text": "Outcome\nThe model identified business travel, digital check-in, cleanliness, entertainment, and WiFi as the strongest positive predictors of satisfaction. An important interaction revealed that loyal business travelers are significantly more likely to be satisfied, highlighting the value of tailored loyalty strategies. Conversely, food quality, seat comfort, and legroom had negative effects, indicating improvement opportunities. Recommendations include improving in-flight WiFi, streamlining digital processes, enhancing loyalty benefits for frequent business travelers, and investing in seat and food upgrades to improve satisfaction across all passenger segments."
+  },
+  {
+    "objectID": "listings/03-customer-segmentation-clustering.html",
+    "href": "listings/03-customer-segmentation-clustering.html",
+    "title": "Farm Store Category Analysis",
+    "section": "",
+    "text": "As part of a micro-internship project for the Cal Poly Pomona Farm Store, I performed a comprehensive analysis of monthly sales data to support inventory and category performance optimization.\nThe goal was to identify which product categories and individual items drove the most revenue and units sold, and to visualize key performance metrics including gross sales, net sales, discounts, and profit margins."
+  },
+  {
+    "objectID": "listings/03-customer-segmentation-clustering.html#overview",
+    "href": "listings/03-customer-segmentation-clustering.html#overview",
+    "title": "Farm Store Category Analysis",
+    "section": "",
+    "text": "As part of a micro-internship project for the Cal Poly Pomona Farm Store, I performed a comprehensive analysis of monthly sales data to support inventory and category performance optimization.\nThe goal was to identify which product categories and individual items drove the most revenue and units sold, and to visualize key performance metrics including gross sales, net sales, discounts, and profit margins."
+  },
+  {
+    "objectID": "listings/03-customer-segmentation-clustering.html#key-questions-explored",
+    "href": "listings/03-customer-segmentation-clustering.html#key-questions-explored",
+    "title": "Farm Store Category Analysis",
+    "section": "Key Questions Explored",
+    "text": "Key Questions Explored\n\nWhich product categories generated the highest gross and net sales?\nWhich individual items were most popular within each category?\nWhat trends were observed in COGS, profit, and discounting?\nHow can insights support better inventory and pricing decisions?"
+  },
+  {
+    "objectID": "listings/03-customer-segmentation-clustering.html#methods",
+    "href": "listings/03-customer-segmentation-clustering.html#methods",
+    "title": "Farm Store Category Analysis",
+    "section": "Methods",
+    "text": "Methods\n\nCombined monthly Excel sheets into a single dataset using readxl and purrr\nCreated bar charts, boxplots, scatter plots, and histograms with ggplot2\nRanked top-selling products per category and created faceted visualizations\nUsed dplyr to summarize and group sales by product and category"
+  },
+  {
+    "objectID": "listings/03-customer-segmentation-clustering.html#results",
+    "href": "listings/03-customer-segmentation-clustering.html#results",
+    "title": "Farm Store Category Analysis",
+    "section": "Results",
+    "text": "Results\n\nGrocery Snacks and Grocery Beverages were top-performing categories in terms of sales volume.\nThe most popular items varied significantly by category, with a few standout products accounting for a large share of units sold.\nClear patterns emerged in average item size, repayments, and gross profit, allowing for targeted business decisions.\n\n📊 Visuals included: - Gross vs. Net Sales comparisons - Top 25 items by units sold (with category-specific charts) - Boxplots of profit and sales by category"
+  },
+  {
+    "objectID": "listings/03-customer-segmentation-clustering.html#tools-used",
+    "href": "listings/03-customer-segmentation-clustering.html#tools-used",
+    "title": "Farm Store Category Analysis",
+    "section": "Tools Used",
+    "text": "Tools Used\n\nR (tidyverse, ggplot2, readxl)\nExcel (initial data collection)\nQuarto for project reporting"
+  },
+  {
+    "objectID": "listings/03-customer-segmentation-clustering.html#visual",
+    "href": "listings/03-customer-segmentation-clustering.html#visual",
+    "title": "Farm Store Category Analysis",
+    "section": "Visual",
+    "text": "Visual\n\n\n\nFarm Store Top 25 Items"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Résumé",
+    "section": "",
+    "text": "You can view a PDF version of my résumé here.\n\nProfessional Summary\nAnalytical and detail-oriented marketing professional with hands-on experience in data visualization, category performance analysis, and digital freelancing. Demonstrated ability to work independently and with teams to extract insights, develop solutions, and communicate results clearly. Eager to bring data-driven strategy to a market insights or analytics-focused role.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL\nTools & Packages: ggplot2, dplyr, fpp3, fable, Quarto, Excel\nWeb Technologies: HTML, CSS, Quarto (Website & Slide Publishing)\nAnalytics Areas: Forecasting, Survey Analysis, Time Series, Data Cleaning, MANOVA, Topic Modeling\n\n\n\nEducation\n\n\n\n\n\n\n\n\n\nDegree\nYear\nCollege / Department\nInstitution\n\n\n\n\nM.S. Digital Marketing\n2023 – 2025\nCollege of Business\nCal Poly Pomona\n\n\nB.A. International Business and Marketing\n2021 - 2023\nCollege of Business\nCal Poly Pomona\n\n\n\n\n\nWork Experience\n\nData & Marketing Intern, Cal Poly Pomona Farm Store\nJune 2024 – July 2024\n\nAnalyzed 12 months of sales data across multiple product categories to identify top-performing items\nCreated visualizations (bar plots, boxplots, scatterplots) using R and ggplot2 to support business insights\nDelivered recommendations to improve category-level strategy based on gross sales, profit margins, and customer preferences\nTools: R, readxl, tidyverse, ggplot2, Excel\n\n\n\n\nFreelance Marketing & Analytics Consultant, Upwork\nJan 2025 – Present\n\nCompleted various client projects involving survey analysis, Google Sheets dashboards, and campaign reporting\nBuilt interactive reports and provided actionable insights for e-commerce and service-based businesses\nCommunicated with non-technical clients to clarify project goals and present results clearly\nTools: R, Python, Google Sheets, Excel, Canva, Google Analytics"
+  },
+  {
+    "objectID": "listings/02-ai-policy-survey.html",
+    "href": "listings/02-ai-policy-survey.html",
+    "title": "AI Policy Survey Analysis",
+    "section": "",
+    "text": "This project analyzed open-ended survey responses from university students about how they use AI in business education, their concerns, and what AI policies they believe would promote ethical use.\nThe analysis was conducted as part of a research initiative for Statistics Without Borders, a nonprofit that supports ethical data use in education and consulting. Our goal was to identify actionable policy recommendations based on real student input."
+  },
+  {
+    "objectID": "listings/02-ai-policy-survey.html#overview",
+    "href": "listings/02-ai-policy-survey.html#overview",
+    "title": "AI Policy Survey Analysis",
+    "section": "",
+    "text": "This project analyzed open-ended survey responses from university students about how they use AI in business education, their concerns, and what AI policies they believe would promote ethical use.\nThe analysis was conducted as part of a research initiative for Statistics Without Borders, a nonprofit that supports ethical data use in education and consulting. Our goal was to identify actionable policy recommendations based on real student input."
+  },
+  {
+    "objectID": "listings/02-ai-policy-survey.html#key-findings",
+    "href": "listings/02-ai-policy-survey.html#key-findings",
+    "title": "AI Policy Survey Analysis",
+    "section": "Key Findings",
+    "text": "Key Findings\n\n1. How Students Use AI\nStudents described using AI as a learning aid rather than a shortcut. Common themes included: - Summarizing complex content - Generating ideas and brainstorming - Clarifying difficult assignments\n\n“I mainly use it to help me summarize harder assignments.”\n“Step-by-step learning with integrations.”\n\nThe most frequent words included learning, experience, ideas, and brainstorming — suggesting that students value AI tools as support for deeper understanding.\n📊 Bar chart (right): Displays top 10 words by frequency, colored from cooler to warmer tones.\n\n\n\n2. Student Concerns About AI\nStudents expressed several key concerns: - Accuracy: Worries about incorrect or unclear responses - Trust: Uncertainty about reliability of AI-generated content - Privacy: Discomfort with data collection or usage\n\n“The biggest concern is knowing how much I can trust the tool.”\n“Over-reliance on data, lack of personal creativity.”\n\n☁️ Word cloud (right): Visualizes the most commonly mentioned concerns — the larger the word, the more often it appeared.\n\n\n\n3. Student Recommendations for AI Policy\nUsing topic modeling, we identified three major policy-related themes:\n\nTransparency: Students want to disclose when and how AI is used\nRubrics: Clear grading guidelines that account for AI usage\nSimple Documentation: Easy ways to cite or report AI assistance\n\n\n“Just say if you used it or not or cite sources.”\n“Most likely the rubric, because you will be submitting work regardless of how much AI was used.”\n\n📊 Bar chart: Shows top keywords across the three identified topics."
+  },
+  {
+    "objectID": "listings/02-ai-policy-survey.html#methods",
+    "href": "listings/02-ai-policy-survey.html#methods",
+    "title": "AI Policy Survey Analysis",
+    "section": "Methods",
+    "text": "Methods\n\nText Analysis: Word frequency, word clouds, and LDA topic modeling\nTools: R (tidytext, topicmodels, ggplot2), Quarto\nData: Open-ended survey responses from undergraduate students at a California university"
+  },
+  {
+    "objectID": "listings/02-ai-policy-survey.html#outcome",
+    "href": "listings/02-ai-policy-survey.html#outcome",
+    "title": "AI Policy Survey Analysis",
+    "section": "Outcome",
+    "text": "Outcome\nThe findings were used to propose a student-informed AI policy framework with three pillars: 1. Encourage transparent disclosures 2. Align grading rubrics with ethical AI use 3. Simplify documentation and citation processes\nThese results are currently being used to inform ongoing work by Statistics Without Borders on developing AI policies for education and consulting settings."
+  },
+  {
+    "objectID": "listings/02-ai-policy-survey.html#tools-used",
+    "href": "listings/02-ai-policy-survey.html#tools-used",
+    "title": "AI Policy Survey Analysis",
+    "section": "Tools Used",
+    "text": "Tools Used\n\nR (tidytext, topicmodels, dplyr, ggplot2)\nQuarto for publishing\nExcel (preprocessing)"
+  },
+  {
+    "objectID": "listings/02-ai-policy-survey.html#visual",
+    "href": "listings/02-ai-policy-survey.html#visual",
+    "title": "AI Policy Survey Analysis",
+    "section": "Visual",
+    "text": "Visual\n\n\n\nAI Policy Word Cloud"
+  },
+  {
+    "objectID": "listings/05-social-media-engagement.html",
+    "href": "listings/05-social-media-engagement.html",
+    "title": "Social Media & Sense of Community at CPP",
+    "section": "",
+    "text": "This project explores how students at Cal Poly Pomona use social media platforms to build a sense of community, network, and seek academic support. Based on survey responses, the study investigates the relationship between platform use (Instagram, TikTok, Discord, Facebook) and four outcomes:\n\nSense of Community\nNetworking Opportunities\nAcademic Support\nOverall College Experience"
+  },
+  {
+    "objectID": "listings/05-social-media-engagement.html#overview",
+    "href": "listings/05-social-media-engagement.html#overview",
+    "title": "Social Media & Sense of Community at CPP",
+    "section": "",
+    "text": "This project explores how students at Cal Poly Pomona use social media platforms to build a sense of community, network, and seek academic support. Based on survey responses, the study investigates the relationship between platform use (Instagram, TikTok, Discord, Facebook) and four outcomes:\n\nSense of Community\nNetworking Opportunities\nAcademic Support\nOverall College Experience"
+  },
+  {
+    "objectID": "listings/05-social-media-engagement.html#methods",
+    "href": "listings/05-social-media-engagement.html#methods",
+    "title": "Social Media & Sense of Community at CPP",
+    "section": "Methods",
+    "text": "Methods\n\nSurvey Data: Cleaned and recoded Likert and categorical responses\nImputation: Replaced missing values with mean (numerics) and mode (categoricals)\nRe-encoding: Mapped social media platforms to numeric categories\nAnalysis:\n\nConducted MANOVA with platform usage as predictors\nExamined individual ANOVAs for each dependent variable\n\nVisualization:\n\nBoxplots comparing platform usage with outcome scores\nBar chart of average impact scores per platform"
+  },
+  {
+    "objectID": "listings/05-social-media-engagement.html#key-findings",
+    "href": "listings/05-social-media-engagement.html#key-findings",
+    "title": "Social Media & Sense of Community at CPP",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nMANOVA Results\nThe analysis showed significant effects of platform usage on multiple dimensions of community-building: - Discord had the strongest association with academic support - Instagram was positively linked to sense of community - TikTok and Facebook showed weaker or inconsistent patterns\n📋 P-values were computed for each dependent variable, summarized in a table for all predictors.\n\n\nVisual Insights\n\nBoxplots revealed higher median sense-of-community scores for active Instagram users\nBar chart showed Discord as the top platform for academic-related support\n\n\nExample Insight: “Students who use Discord report higher academic support ratings, while Instagram users report stronger social connection.”"
+  },
+  {
+    "objectID": "listings/05-social-media-engagement.html#tools-used",
+    "href": "listings/05-social-media-engagement.html#tools-used",
+    "title": "Social Media & Sense of Community at CPP",
+    "section": "Tools Used",
+    "text": "Tools Used\n\nR (dplyr, ggplot2, car, tidyr)\nQuarto (reporting and visualization)"
+  },
+  {
+    "objectID": "listings/05-social-media-engagement.html#visual",
+    "href": "listings/05-social-media-engagement.html#visual",
+    "title": "Social Media & Sense of Community at CPP",
+    "section": "Visual",
+    "text": "Visual\n\n\n\nBoxplot of Sense of Community vs Instagram Usage"
+  },
+  {
+    "objectID": "listings/04-walmart-sales-forecasting.html",
+    "href": "listings/04-walmart-sales-forecasting.html",
+    "title": "Walmart Sales Forecasting",
+    "section": "",
+    "text": "This project focused on forecasting weekly sales for Store 1, Department 72 at Walmart using time series models. The goal was to predict future sales using both historical patterns and external economic indicators such as temperature, fuel price, and holidays.\nThe analysis included baseline forecasting using SNAIVE and advanced modeling with ARIMA plus regressors."
+  },
+  {
+    "objectID": "listings/04-walmart-sales-forecasting.html#overview",
+    "href": "listings/04-walmart-sales-forecasting.html#overview",
+    "title": "Walmart Sales Forecasting",
+    "section": "",
+    "text": "This project focused on forecasting weekly sales for Store 1, Department 72 at Walmart using time series models. The goal was to predict future sales using both historical patterns and external economic indicators such as temperature, fuel price, and holidays.\nThe analysis included baseline forecasting using SNAIVE and advanced modeling with ARIMA plus regressors."
+  },
+  {
+    "objectID": "listings/04-walmart-sales-forecasting.html#key-objectives",
+    "href": "listings/04-walmart-sales-forecasting.html#key-objectives",
+    "title": "Walmart Sales Forecasting",
+    "section": "Key Objectives",
+    "text": "Key Objectives\n\nVisualize weekly sales trends and related economic indicators\nMeasure correlations between sales and factors like CPI, fuel prices, and unemployment\nBuild and evaluate SNAIVE and ARIMA models\nAssess forecast accuracy using average error and RMSE"
+  },
+  {
+    "objectID": "listings/04-walmart-sales-forecasting.html#methods",
+    "href": "listings/04-walmart-sales-forecasting.html#methods",
+    "title": "Walmart Sales Forecasting",
+    "section": "Methods",
+    "text": "Methods\n\nTime Series Structure: Data converted into tsibble with weekly granularity\nExploratory Plots:\n\nSales over time (full and 1-year snapshot)\nExternal drivers: Temperature, Fuel Price, CPI, and Unemployment\n\nCorrelation Analysis:\n\nPearson & Spearman matrices visualized with corrplot\n\nModels Built:\n\nSNAIVE: Seasonal naive model as a benchmark\nARIMA: With regressors (IsHoliday, Temperature, Fuel_Price)\n\nForecast Accuracy:\n\nCompared actual vs forecast for 52 weeks\nError metrics: Average Error, RMSE"
+  },
+  {
+    "objectID": "listings/04-walmart-sales-forecasting.html#results",
+    "href": "listings/04-walmart-sales-forecasting.html#results",
+    "title": "Walmart Sales Forecasting",
+    "section": "Results",
+    "text": "Results\n\nSNAIVE RMSE: ~2192\n\nARIMA RMSE: ~1985\n\nARIMA with regressors outperformed the seasonal naive model, capturing effects from holidays and temperature changes. Visualization of actual vs. forecasted values showed close alignment for both models, with ARIMA providing a more stable fit.\n📈 Forecast Chart (right): Depicts actual vs. predicted sales using both models."
+  },
+  {
+    "objectID": "listings/04-walmart-sales-forecasting.html#tools-used",
+    "href": "listings/04-walmart-sales-forecasting.html#tools-used",
+    "title": "Walmart Sales Forecasting",
+    "section": "Tools Used",
+    "text": "Tools Used\n\nR (fpp3, fable, tsibble, ggplot2, corrplot)\nQuarto (for reporting and visualization)"
+  },
+  {
+    "objectID": "listings/04-walmart-sales-forecasting.html#visual",
+    "href": "listings/04-walmart-sales-forecasting.html#visual",
+    "title": "Walmart Sales Forecasting",
+    "section": "Visual",
+    "text": "Visual\n\n\n\nWalmart Forecast Plot"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Below are selected projects that reflect my skills in marketing analytics, research design, and strategic insight development. These projects span time series forecasting, retail sales analysis, multivariate survey research, and AI policy exploration — each grounded in data-driven methods and real-world applications.\nWhether identifying satisfaction drivers, modeling sales trends, or analyzing student behavior, I aim to transform complex data into clear, actionable insights that support business and educational decisions."
+  },
+  {
+    "objectID": "projects.html#key-focus-areas",
+    "href": "projects.html#key-focus-areas",
+    "title": "Projects",
+    "section": "Key Focus Areas",
+    "text": "Key Focus Areas\n\nRetail & Sales Analytics: Forecasting demand, analyzing profitability, and understanding product/category trends.\nSurvey & Community Research: Using statistical modeling (e.g., MANOVA, topic modeling) to interpret user behavior and policy feedback.\nData Visualization: Communicating insights clearly through plots, dashboards, and summary tables.\nForecasting & Time Series Modeling: Applying models like SNAIVE and ARIMA to predict future outcomes."
   }
 ]

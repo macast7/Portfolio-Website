@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Social Media Engagement Analysis – Marvin Castrejon</title>
+<title>Social Media &amp; Sense of Community at CPP – Marvin Castrejon</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -92,12 +92,8 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../marketing-analytics.html"> 
-<span class="menu-text">Marketing Analytics</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../strategic-marketing.html"> 
-<span class="menu-text">Strategic Marketing</span></a>
+    <a class="nav-link" href="../projects.html"> 
+<span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../resume.html"> 
@@ -114,21 +110,33 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#methods" id="toc-methods" class="nav-link" data-scroll-target="#methods">Methods</a></li>
+  <li><a href="#key-findings" id="toc-key-findings" class="nav-link" data-scroll-target="#key-findings">Key Findings</a>
+  <ul class="collapse">
+  <li><a href="#manova-results" id="toc-manova-results" class="nav-link" data-scroll-target="#manova-results">MANOVA Results</a></li>
+  <li><a href="#visual-insights" id="toc-visual-insights" class="nav-link" data-scroll-target="#visual-insights">Visual Insights</a></li>
+  </ul></li>
+  <li><a href="#tools-used" id="toc-tools-used" class="nav-link" data-scroll-target="#tools-used">Tools Used</a></li>
+  <li><a href="#visual" id="toc-visual" class="nav-link" data-scroll-target="#visual">Visual</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Social Media Engagement Analysis</h1>
+<h1 class="title">Social Media &amp; Sense of Community at CPP</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">Social Media</div>
-    <div class="quarto-category">Engagement Metrics</div>
-    <div class="quarto-category">Content Strategy</div>
-    <div class="quarto-category">Audience Analysis</div>
-    <div class="quarto-category">Analytics</div>
+    <div class="quarto-category">Survey Research</div>
+    <div class="quarto-category">Multivariate Analysis</div>
+    <div class="quarto-category">Student Insights</div>
   </div>
   </div>
 
@@ -146,45 +154,74 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="overview" class="level4">
-<h4 class="anchored" data-anchor-id="overview"><strong>Overview</strong></h4>
-<p>This analysis examined engagement metrics across multiple social media platforms to identify content trends, audience preferences, and posting strategies that drive performance.</p>
-</section>
-<div class="columns">
-<div class="column" style="width:50%;">
-<section id="learning-outcomes" class="level4">
-<h4 class="anchored" data-anchor-id="learning-outcomes"><strong>Learning Outcomes</strong></h4>
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>This project explores how students at Cal Poly Pomona use social media platforms to build a sense of community, network, and seek academic support. Based on survey responses, the study investigates the <strong>relationship between platform use (Instagram, TikTok, Discord, Facebook)</strong> and four outcomes:</p>
 <ul>
-<li>Aggregate and clean social media data.<br>
-</li>
-<li>Identify high-performing content formats.<br>
-</li>
-<li>Understand audience behavior and peak times.<br>
-</li>
-<li>Support social strategy with data-backed recommendations.<br>
-</li>
-<li>Visualize results in an executive summary.</li>
+<li>Sense of Community</li>
+<li>Networking Opportunities</li>
+<li>Academic Support</li>
+<li>Overall College Experience</li>
 </ul>
+<hr>
 </section>
-</div><div class="column" style="width:50%;">
-<section id="key-skills-gained" class="level4">
-<h4 class="anchored" data-anchor-id="key-skills-gained"><strong>Key Skills Gained</strong></h4>
+<section id="methods" class="level2">
+<h2 class="anchored" data-anchor-id="methods">Methods</h2>
 <ul>
-<li>Social analytics<br>
-</li>
-<li>Platform metric APIs<br>
-</li>
-<li>Content performance tracking<br>
-</li>
-<li>Audience insights<br>
-</li>
-<li>Strategic planning</li>
+<li><strong>Survey Data</strong>: Cleaned and recoded Likert and categorical responses</li>
+<li><strong>Imputation</strong>: Replaced missing values with mean (numerics) and mode (categoricals)</li>
+<li><strong>Re-encoding</strong>: Mapped social media platforms to numeric categories</li>
+<li><strong>Analysis</strong>:
+<ul>
+<li>Conducted <strong>MANOVA</strong> with platform usage as predictors</li>
+<li>Examined <strong>individual ANOVAs</strong> for each dependent variable</li>
+</ul></li>
+<li><strong>Visualization</strong>:
+<ul>
+<li>Boxplots comparing platform usage with outcome scores</li>
+<li>Bar chart of average impact scores per platform</li>
+</ul></li>
 </ul>
+<hr>
 </section>
-</div>
+<section id="key-findings" class="level2">
+<h2 class="anchored" data-anchor-id="key-findings">Key Findings</h2>
+<section id="manova-results" class="level3">
+<h3 class="anchored" data-anchor-id="manova-results">MANOVA Results</h3>
+<p>The analysis showed significant effects of platform usage on multiple dimensions of community-building: - <strong>Discord</strong> had the strongest association with <strong>academic support</strong> - <strong>Instagram</strong> was positively linked to <strong>sense of community</strong> - <strong>TikTok</strong> and <strong>Facebook</strong> showed weaker or inconsistent patterns</p>
+<p>📋 <em>P-values</em> were computed for each dependent variable, summarized in a table for all predictors.</p>
+</section>
+<section id="visual-insights" class="level3">
+<h3 class="anchored" data-anchor-id="visual-insights">Visual Insights</h3>
+<ul>
+<li><strong>Boxplots</strong> revealed higher median sense-of-community scores for active Instagram users</li>
+<li><strong>Bar chart</strong> showed Discord as the top platform for academic-related support</li>
+</ul>
+<blockquote class="blockquote">
+<p>Example Insight: “Students who use Discord report higher academic support ratings, while Instagram users report stronger social connection.”</p>
+</blockquote>
+<hr>
+</section>
+</section>
+<section id="tools-used" class="level2">
+<h2 class="anchored" data-anchor-id="tools-used">Tools Used</h2>
+<ul>
+<li>R (<code>dplyr</code>, <code>ggplot2</code>, <code>car</code>, <code>tidyr</code>)</li>
+<li>Quarto (reporting and visualization)</li>
+</ul>
+<hr>
+</section>
+<section id="visual" class="level2">
+<h2 class="anchored" data-anchor-id="visual">Visual</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../images/community-boxplot.png" class="img-fluid figure-img"></p>
+<figcaption>Boxplot of Sense of Community vs Instagram Usage</figcaption>
+</figure>
 </div>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

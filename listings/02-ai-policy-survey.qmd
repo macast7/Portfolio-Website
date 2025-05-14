@@ -1,0 +1,95 @@
+---
+title: "AI Policy Survey Analysis"
+image: "https://placehold.co/600x400?text=AI+Policy"
+categories: ["Survey Research", "Text Analytics", "AI in Education"]
+index: 2
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Overview
+
+This project analyzed open-ended survey responses from university students about how they use AI in business education, their concerns, and what AI policies they believe would promote ethical use.
+
+The analysis was conducted as part of a research initiative for **Statistics Without Borders**, a nonprofit that supports ethical data use in education and consulting. Our goal was to identify actionable policy recommendations based on real student input.
+
+---
+
+## Key Findings
+
+### 1. How Students Use AI
+
+Students described using AI as a **learning aid** rather than a shortcut. Common themes included:
+- Summarizing complex content
+- Generating ideas and brainstorming
+- Clarifying difficult assignments
+
+> “I mainly use it to help me summarize harder assignments.”  
+> “Step-by-step learning with integrations.”
+
+The most frequent words included **learning**, **experience**, **ideas**, and **brainstorming** — suggesting that students value AI tools as support for deeper understanding.
+
+📊 *Bar chart (right)*: Displays top 10 words by frequency, colored from cooler to warmer tones.
+
+---
+
+### 2. Student Concerns About AI
+
+Students expressed several key concerns:
+- **Accuracy**: Worries about incorrect or unclear responses
+- **Trust**: Uncertainty about reliability of AI-generated content
+- **Privacy**: Discomfort with data collection or usage
+
+> “The biggest concern is knowing how much I can trust the tool.”  
+> “Over-reliance on data, lack of personal creativity.”
+
+☁️ *Word cloud (right)*: Visualizes the most commonly mentioned concerns — the larger the word, the more often it appeared.
+
+---
+
+### 3. Student Recommendations for AI Policy
+
+Using topic modeling, we identified three major policy-related themes:
+
+- **Transparency**: Students want to disclose when and how AI is used
+- **Rubrics**: Clear grading guidelines that account for AI usage
+- **Simple Documentation**: Easy ways to cite or report AI assistance
+
+> “Just say if you used it or not or cite sources.”  
+> “Most likely the rubric, because you will be submitting work regardless of how much AI was used.”
+
+📊 *Bar chart*: Shows top keywords across the three identified topics.
+
+---
+
+## Methods
+
+- **Text Analysis**: Word frequency, word clouds, and LDA topic modeling
+- **Tools**: R (`tidytext`, `topicmodels`, `ggplot2`), Quarto
+- **Data**: Open-ended survey responses from undergraduate students at a California university
+
+---
+
+## Outcome
+
+The findings were used to propose a student-informed AI policy framework with three pillars:
+1. Encourage **transparent disclosures**
+2. Align **grading rubrics** with ethical AI use
+3. Simplify **documentation and citation** processes
+
+These results are currently being used to inform ongoing work by **Statistics Without Borders** on developing AI policies for education and consulting settings.
+
+---
+
+## Tools Used
+
+- R (tidytext, topicmodels, dplyr, ggplot2)
+- Quarto for publishing
+- Excel (preprocessing)
+
+---
+
+## Visual
+
+![AI Policy Word Cloud](../images/ai-policy-wordcloud.png)
